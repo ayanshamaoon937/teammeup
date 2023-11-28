@@ -270,7 +270,7 @@ include_once "includes/links.php";
                             <div class="col-md-12">
                                 <div class="chat-box-tray">
                                     <input type="text" placeholder="Type your message here...">
-                                    <button class="button">Search</button>
+                                    <button class="button">Send</button>
                                 </div>
                             </div>
                         </div>
