@@ -13,10 +13,7 @@
 <script src="scripts/perfect-scrollbar.min.js"></script>
 
 <!-- Maps -->
-<script src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en"></script>
-<script src="scripts/infobox.min.js"></script>
-<script src="scripts/markerclusterer.js"></script>
-<script src="scripts/maps.js"></script>
+
 <link href="css/datedropper.css" rel="stylesheet" type="text/css">
 <script src="scripts/datedropper.js"></script>
 <script src="scripts/quantityButtons.js"></script>
@@ -142,5 +139,14 @@
         });
     });
 </script>
+<!-- Scripts -->
+
+<!-- Maps -->
+<script src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en"></script>
+<script src="scripts/infobox.min.js"></script>
+<script src="scripts/markerclusterer.js"></script>
+<script src="scripts/maps.js"></script>
+</body>
+</html>
 </body>
 </html>

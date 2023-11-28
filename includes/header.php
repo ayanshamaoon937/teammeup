@@ -29,6 +29,7 @@
                                 <li><a href="dashboard_invoice">Invoice</a></li>
                                 <li><a href="dashboard_messages">Messages</a></li>
                                 <li><a href="dashboard_my_profile">My Profile</a></li>
+                                <li><a href="pricing">Pricing</a></li>
 
 
                             </ul>
@@ -39,7 +40,9 @@
                 <div class="clearfix"></div>
             </div>
             <div class="utf_right_side">
-                <div class="header_widget"> <a href="#dialog_signin_part" class="button border sign-in popup-with-zoom-anim"><i class="fa fa-sign-in"></i> Sign In</a> <a href="dashboard" class="button border with-icon"><i class="sl sl-icon-user"></i>Dashboard</a></div>
+                <div class="header_widget">
+                    <a href="login" class="button"><i class="fa fa-sign-in"></i>Login</a>
+                    <a href="dashboard" class="button border with-icon"><i class="sl sl-icon-user"></i>Dashboard</a></div>
             </div>
 
             <div id="dialog_signin_part" class="zoom-anim-dialog mfp-hide">

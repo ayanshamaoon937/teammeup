@@ -5,7 +5,7 @@
 <meta name="description" content="">
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>:: U-Listing Directory - Listing HTML Template ::</title>
+<title>Tema Me Up - Invoice</title>
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="images/favicon.png">
@@ -35,16 +35,16 @@
   
   <div class="row">
     <div class="col-md-12">
-      <h2 class="invoice_title">U-Listing Invoice</h2>
+      <h2 class="invoice_title">Tema Me Up Invoice</h2>
     </div>
     <div class="col-md-6">
       <p><strong>Billed To:</strong><br>
-        1789 Williamson Plaza, Maggieberg,<br> MT 878, United States
+        demo Address,<br> demo Address
       </p>
     </div>
     <div class="col-md-6 fl_right"> 
       <p><strong>Shipped To:</strong><br>
-        267 Suzanne Throughway, Breannabury,<br> OR 45801, United States
+        demo Address,<br> demo Address
       </p>
     </div>
 	<div class="col-md-6">

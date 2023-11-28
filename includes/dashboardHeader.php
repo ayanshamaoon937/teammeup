@@ -28,6 +28,7 @@
                                 <li><a href="dashboard_invoice">Invoice</a></li>
                                 <li><a href="dashboard_messages">Messages</a></li>
                                 <li><a href="dashboard_my_profile">My Profile</a></li>
+                                <li><a href="pricing">Pricing</a></li>
                             </ul>
                         </li>
                     </ul>

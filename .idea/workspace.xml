@@ -5,7 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffe18a38-2511-4b49-9611-f6cfa5820998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pricing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard_invoice.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard_invoice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard_messages.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard_messages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard_my_profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard_my_profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-compact-post-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-compact-post-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-compact-post-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-compact-post-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-post-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-post-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-post-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-widget-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-widget-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-widget-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brand_logo_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/brand_logo_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brand_logo_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/brand_logo_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brand_logo_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/brand_logo_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brand_logo_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/brand_logo_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brand_logo_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/brand_logo_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brand_logo_06.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/brand_logo_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brand_logo_07.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/brand_logo_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/dashboardHeader.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/dashboardHeader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footerLinks.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footerLinks.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/links.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/links.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery_custom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +67,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Applications/XAMPP/xamppfiles/htdocs/teammeup",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,7 +92,12 @@
       <updated>1700567018238</updated>
       <workItem from="1700567019358" duration="1635000" />
       <workItem from="1700569830610" duration="1870000" />
-      <workItem from="1700630963799" duration="13222000" />
+      <workItem from="1700630963799" duration="13547000" />
+      <workItem from="1700724514045" duration="609000" />
+      <workItem from="1700804427285" duration="33000" />
+      <workItem from="1701066591629" duration="8956000" />
+      <workItem from="1701149799327" duration="6985000" />
+      <workItem from="1701157397271" duration="213000" />
     </task>
     <servers />
   </component>
